@@ -1,0 +1,11 @@
+.primero {
+	width: 200px;
+	border: 10px solid yellow;
+	padding: 30px;
+}
+.segundo {
+	width: 200px;
+	border: 10px solid yellow;
+	padding: 30px;
+	margin-left: 500px;
+}
